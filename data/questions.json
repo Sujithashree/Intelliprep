@@ -1,0 +1,143 @@
+[
+  {
+    "id": "q1",
+    "question": "Tell me about a time you disagreed with a stakeholder.",
+    "type": "behavioral",
+    "category": "Collaboration",
+    "difficulty": "medium",
+    "roles": [
+      "Product Manager",
+      "Project Manager",
+      "Engineering Manager"
+    ]
+  },
+  {
+    "id": "q2",
+    "question": "Tell me about a project that failed and what you learned.",
+    "type": "behavioral",
+    "category": "Ownership",
+    "difficulty": "hard",
+    "roles": [
+      "Product Manager",
+      "Software Engineer",
+      "Engineering Manager"
+    ]
+  },
+  {
+    "id": "q3",
+    "question": "How would you prioritize three competing product requests?",
+    "type": "case",
+    "category": "Product Sense",
+    "difficulty": "hard",
+    "roles": [
+      "Product Manager"
+    ]
+  },
+  {
+    "id": "q4",
+    "question": "Describe a situation where you used data to change a decision.",
+    "type": "behavioral",
+    "category": "Data & Decisions",
+    "difficulty": "medium",
+    "roles": [
+      "Product Manager",
+      "Data Analyst",
+      "Business Analyst"
+    ]
+  },
+  {
+    "id": "q5",
+    "question": "Explain a technical concept to a non-technical stakeholder.",
+    "type": "behavioral",
+    "category": "Communication",
+    "difficulty": "medium",
+    "roles": [
+      "Software Engineer",
+      "Product Manager",
+      "Engineering Manager"
+    ]
+  },
+  {
+    "id": "q6",
+    "question": "What would you do if your team's deadline became impossible to meet?",
+    "type": "situational",
+    "category": "Leadership",
+    "difficulty": "hard",
+    "roles": [
+      "Engineering Manager",
+      "Project Manager",
+      "Product Manager"
+    ]
+  },
+  {
+    "id": "q7",
+    "question": "Tell me about your most impactful professional achievement.",
+    "type": "behavioral",
+    "category": "Impact",
+    "difficulty": "medium",
+    "roles": [
+      "Product Manager",
+      "Software Engineer",
+      "Designer",
+      "Project Manager"
+    ]
+  },
+  {
+    "id": "q8",
+    "question": "Tell me about a time you had to influence someone without authority.",
+    "type": "behavioral",
+    "category": "Influence",
+    "difficulty": "hard",
+    "roles": [
+      "Product Manager",
+      "Project Manager",
+      "Engineering Manager"
+    ]
+  },
+  {
+    "id": "q9",
+    "question": "How would you improve a product you use every day?",
+    "type": "case",
+    "category": "Product Sense",
+    "difficulty": "medium",
+    "roles": [
+      "Product Manager",
+      "Product Designer"
+    ]
+  },
+  {
+    "id": "q10",
+    "question": "Describe a time you received difficult feedback.",
+    "type": "behavioral",
+    "category": "Growth",
+    "difficulty": "medium",
+    "roles": [
+      "Product Manager",
+      "Software Engineer",
+      "Designer",
+      "Project Manager"
+    ]
+  },
+  {
+    "id": "q11",
+    "question": "How do you decide what not to build?",
+    "type": "case",
+    "category": "Prioritization",
+    "difficulty": "hard",
+    "roles": [
+      "Product Manager"
+    ]
+  },
+  {
+    "id": "q12",
+    "question": "Tell me about a time you made a decision with incomplete information.",
+    "type": "behavioral",
+    "category": "Decision Making",
+    "difficulty": "hard",
+    "roles": [
+      "Product Manager",
+      "Engineering Manager",
+      "Project Manager"
+    ]
+  }
+]

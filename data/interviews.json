@@ -1,0 +1,35 @@
+[
+  {
+    "id": "int_demo_1",
+    "createdAt": "2026-08-28T10:30:00.000Z",
+    "updatedAt": "2026-08-28T10:45:00.000Z",
+    "status": "completed",
+    "role": "Product Manager",
+    "company": "Target Company",
+    "mode": "behavioral",
+    "score": 86,
+    "durationMinutes": 24
+  },
+  {
+    "id": "int_demo_2",
+    "createdAt": "2026-08-25T14:00:00.000Z",
+    "updatedAt": "2026-08-25T14:28:00.000Z",
+    "status": "completed",
+    "role": "Product Manager",
+    "company": "Target Company",
+    "mode": "case",
+    "score": 78,
+    "durationMinutes": 28
+  },
+  {
+    "id": "int_demo_3",
+    "createdAt": "2026-08-22T09:15:00.000Z",
+    "updatedAt": "2026-08-22T09:40:00.000Z",
+    "status": "completed",
+    "role": "Product Manager",
+    "company": "Target Company",
+    "mode": "behavioral",
+    "score": 81,
+    "durationMinutes": 25
+  }
+]

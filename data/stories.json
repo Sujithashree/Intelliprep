@@ -1,0 +1,30 @@
+[
+  {
+    "id": "story_demo_1",
+    "createdAt": "2026-08-28T11:00:00.000Z",
+    "title": "Recovered a delayed launch",
+    "tags": [
+      "Leadership",
+      "Ownership",
+      "Execution"
+    ],
+    "situation": "A key launch was slipping because multiple teams had conflicting priorities.",
+    "task": "Create a realistic recovery plan without reducing the critical scope.",
+    "action": "Aligned teams around milestones, removed low-value work, and established twice-weekly risk reviews.",
+    "result": "The launch shipped within the revised window and reduced unresolved dependencies."
+  },
+  {
+    "id": "story_demo_2",
+    "createdAt": "2026-08-27T13:20:00.000Z",
+    "title": "Changed a decision with data",
+    "tags": [
+      "Data",
+      "Influence",
+      "Decision Making"
+    ],
+    "situation": "The team wanted to prioritize a feature based mainly on stakeholder requests.",
+    "task": "Determine whether the feature would actually create meaningful customer value.",
+    "action": "Analyzed usage patterns, interviewed customers, and compared the opportunity with competing priorities.",
+    "result": "The team changed direction and focused on a higher-impact initiative."
+  }
+]

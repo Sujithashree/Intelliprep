@@ -1,0 +1,29 @@
+{
+  "name": "interview-platform",
+  "version": "1.0.0",
+  "description": "Interview practice platform",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node --watch server/server.js"
+  },
+  "keywords": [
+    "interview",
+    "practice",
+    "career",
+    "node",
+    "express"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "express": "^5.2.1",
+    "multer": "^2.3.0",
+    "openai": "^7.8.0"
+  }
+}
