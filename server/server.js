@@ -1056,10 +1056,11 @@ app.use((err, req, res, next) => {
    START SERVER
    ========================================================= */
 
-app.listen(
-  PORT,
-  HOST,
-  () => {
+if (require.main === module) {
+  app.listen(
+    PORT,
+    HOST,
+    () => {
     console.log("");
     console.log(
       "======================================"
@@ -1098,5 +1099,8 @@ app.listen(
     );
 
     console.log("");
-  }
-);
+    }
+  );
+}
+
+module.exports = app;

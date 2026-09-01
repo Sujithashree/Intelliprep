@@ -550,8 +550,8 @@ function speak(
 
   uiStatus(
     who === "interviewer"
-      ? "Interviewer is speaking"
-      : "Evaluator is speaking",
+      ? "Titan is speaking"
+      : "Oracle is speaking",
     "speaking"
   );
 
@@ -968,7 +968,7 @@ async function startInterview() {
     }
 
     addTranscript(
-      "INTERVIEWER",
+      "TITAN",
       aiQuestion,
       "ai"
     );
